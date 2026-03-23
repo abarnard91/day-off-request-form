@@ -1,0 +1,15 @@
+*{
+    border:1px solid red;
+}
+#form_container{
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    background-color: aquamarine;
+    justify-content: center;
+}
+#form_img{
+    height:100vh;
+    width:auto;
+}
